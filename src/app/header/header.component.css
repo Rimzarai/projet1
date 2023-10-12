@@ -1,0 +1,54 @@
+span{
+    color: rgb(245, 245, 246);
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-weight: 700; 
+}
+h5{
+  color: rgb(245, 245, 246);
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-weight: 700; 
+}
+.image{
+    height: 9vh;
+    width: .5px;
+    font-family: Arial, sans-serif;
+    
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #481f6c;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    font-size: 24px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  
+  .nav-links a:hover {
+    color: #ff9900;
+  }
+ 
+  
+  
+  
+  
+  

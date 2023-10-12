@@ -1,0 +1,49 @@
+.background-image{
+    background-image:url("/assets/1.jpg");
+    height: 99vh;
+    background-repeat: no-repeat;
+    width: 1499px;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    
+    
+}
+
+.kk {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+a {
+
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2.9px 4px;
+    cursor: pointer;
+    margin-left: 8%;
+    
+    font-family: Arial, sans-serif;
+  }
+  table{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 40%;
+  }
+  p{
+    margin-left: 8%;
+    font-weight: bold;
+    font-weight: 70px;
+    font-size: 24px; /* Taille de la police */
+    font-weight: bold; /* Gras */
+    color: #060606;
+  }
